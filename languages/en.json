@@ -1,4 +1,5 @@
 {
+    "title": "Oops, Site blocked",
     "header_message": "Oops, Site blocked",
     "explainer_message": "The site you were trying to access is blocked due to content filtering. It may contain harmful, illegal, or malicious content, or advertising and trackers.",
     "back": "Go back",

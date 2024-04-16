@@ -1,9 +1,10 @@
 {
+    "title": "Ups, blockierte Seite",
     "header_message": "Ups, blockierte Seite",
     "explainer_message": "Die Seite, auf die Sie versuchen zuzugreifen, ist aufgrund von Inhaltsfilterung blockiert. Sie enthält möglicherweise schädlichen, illegalen oder bösartigen Inhalt, oder Werbung und Tracker.",
     "back": "Zurück",
     "admin_settings": "Admin-Einstellungen",
-    "about": "Mehr",
+    "about": "Weitere Infos",
     "access_datetime": "Zugriff am",
     "external_ip": "Externe IP"
 }
